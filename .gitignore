@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de caché y bytecode
+__pycache__/
+*.pyc
+
+# Archivos generados por el programa
+reporte.csv
+registro.log
+data2.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
